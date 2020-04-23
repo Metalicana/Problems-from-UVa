@@ -1,0 +1,4 @@
+use sieve of eratosthenes to find the primes.
+let F[n] be answer for n,
+then F[n] = F[n-1] + sum of prime factor numbers
+apply prime factorization and find out how many primes n has. add it.
